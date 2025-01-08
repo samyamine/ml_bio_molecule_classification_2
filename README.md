@@ -1,6 +1,6 @@
 # TF binding implementation for MLBio class.
 
-To launch the work, please run the following:
+To setup the environment, please run the following command:
 
 ```bash
 pip install -r requirements.txt
